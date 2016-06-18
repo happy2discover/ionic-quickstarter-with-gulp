@@ -64,7 +64,7 @@ var paths = {
     './src/lib/ionic/js/ionic.bundle.js',
     './src/lib/angular-resource/angular-resource.js',
     './src/lib/collide/collide.js',
-    './src/lib/ionic-contrib-tinder-cards/ionic.tdcards.js',
+    './src/lib/ionic-ion-tinder-cards/ionic.tdcards.js',
   ]
 };
 
